@@ -43,7 +43,7 @@
     /* Sezione float cards */
 
 
-    .person{   
+    .card{   
         float: left;
         width: calc(100% / 3 - 30px);
         margin-top: 20px;
@@ -51,7 +51,7 @@
        
     }
 
-    .card{
+    .subject{
         background-color: white;
         height: 100px;
         max-width: 350px;
